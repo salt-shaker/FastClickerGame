@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fast Clicker Game</string>
+    <string name="counterPlaceHolder">Counter: 10</string>
+    <string name="pointsPlaceHolder">Points: 0</string>
+    <string name="click">Click</string>
+    <string name="start">Start</string>
+</resources>
